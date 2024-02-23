@@ -4,3 +4,7 @@
   background: #000;
   opacity: 0.001;
 }
+p {
+  color: red;
+  text-align: center;
+}
